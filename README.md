@@ -13,5 +13,5 @@ To perform mineral compositional analysis on a debris disk spectrum, there must 
 
 And below is an example of a debris disk that displays prominent silicate mineral features:
 
-
+<img src="/HD15407_Debris_Disk_Spectrum.png" width = 300 >
 
