@@ -20,4 +20,5 @@ It is reccommended to run the Min-CaLM program through the command line. First d
 
 To run Min-CaLM, go to the command line and navigate to the directory that contains all of the above files. Then type "ipython" into the command line. Now that you are in ipython, type "run Min-CaLM.py" to run the program. The program will ask you to "Please input the target's spectrum (target spectrum must be kept in the same folder as Min-CaLM.py):". Type in the file name of the debris disk spectrum into the command line and press enter. The program will then display a figure of the recreated spectrum (blue) plotted over the original debris disk spectrum (red). In the command line, a table will be displayed that shows the minerals that were determined to be present in the disk and their relative abundances.
 
-
+# Tutorial 1
+This tutorial is a more indepth description of how to use the Min-CaLM program to perform mineral compositional analysis on debris disk spectra. I will use the debris disk around HD 23514 as an example.
