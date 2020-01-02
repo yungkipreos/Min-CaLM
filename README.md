@@ -15,7 +15,7 @@ And below is an example of a debris disk spectrum that displays prominent silica
 
 <img src="/HD15407_Debris_Disk_Spectrum.png" width = 300 >
 
-# Running the Min-CaLM Program
+## Running the Min-CaLM Program
 It is reccommended to run the Min-CaLM program through the command line. First download both the Min-CaLM.py file and the mineral spectra files into the same directory. There are some example debris disk spectra that can be downloaded as well. The Min-CaLM.py file, mineral spectra files, and example debris disk spectra files can be all found in this Git-hub repository. 
 
 To run Min-CaLM, go to the command line and navigate to the directory that contains all of the above files. Then type "ipython" into the command line. Now that you are in ipython, type "run Min-CaLM.py" to run the program. The program will ask you to "Please input the target's spectrum (target spectrum must be kept in the same folder as Min-CaLM.py):". Type in the file name of the debris disk spectrum into the command line and press enter. The program will then display a figure of the recreated spectrum (blue) plotted over the original debris disk spectrum (red). In the command line, a table will be displayed that shows the minerals that were determined to be present in the disk and their relative abundances.
