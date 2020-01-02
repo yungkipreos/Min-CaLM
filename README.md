@@ -9,5 +9,9 @@ Min-CaLM assumes several things about the target debris disk spectrum. It assume
 
 To perform mineral compositional analysis on a debris disk spectrum, there must be prominent silicate mineral features present. Below is an example of a debris disk spectrum with no silicate mineral features:
 
-<img src="/HD192758_Debris_Disk_Spectrum.png" class="centerImage" width = 300 >
+<img src="/HD192758_Debris_Disk_Spectrum.png" width = 300 >
+
+And below is an example of a debris disk that displays prominent silicate mineral features:
+
+
 
