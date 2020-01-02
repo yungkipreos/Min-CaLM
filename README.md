@@ -1,0 +1,2 @@
+# Min-CaLM
+This python package can perform automated mineral compositional analysis on debris disk spectra. It will determine the minerals that are present and what their relative abundances are within the debris disk. This code is used in a paper that has been submitted to the American Journal of Undergraduate Research (AJUR), titled "An Unbiased Mineral Compositional Analysis Technique for Debris Disks".
