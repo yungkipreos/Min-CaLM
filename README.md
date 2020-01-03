@@ -23,7 +23,23 @@ To run Min-CaLM, go to the command line and navigate to the directory that conta
 # Tutorial 1
 This tutorial is a more indepth description of how to use the Min-CaLM program to perform mineral compositional analysis on debris disk spectra. This tutorial assumes that the star's photosphere blackbody contributions has aleady been removed from the spectrum. The resulting spectrum is the debris disk spectrum that contains the mineral spectra and the blackbody spectrum produced by the heated dust/debris. Here, I will use the debris disk around BD+20 307 as an example. BD+20 307 is a dusty binary star system in the Aries constellation. 
 
-The BD+20 307 debris disk data file is in a two column format, shown below. Notice that the data is in ascending order according to the wavelength data. 
+The BD+20 307 debris disk data file is in a two column format, a section of which is shown below. The left column is the wavelength data and the right column is the flux data. Notice that the data is in ascending order according to the wavelength data. 
+
+<img src="/BD+20_307_Sample_Data.png" width = 300 >
+
+The spectrum of this debris disk is:
+
+
+
+Before the Min-CaLM program can be used on the debris disk data, the dust's blackbody spectrum must be removed
+
+
+
+
+
+
+
+
 
 
 
