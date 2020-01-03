@@ -29,9 +29,11 @@ The BD+20 307 debris disk data file is in a two column format, a section of whic
 
 The spectrum of this debris disk is:
 
-<img src="/HD_69830_Spectrum.png" width = 300 >
+<img src="/BD+20 307_Spectrum.png" width = 300 >
 
-Before the Min-CaLM program can be used on the debris disk data, the dust's blackbody spectrum must be removed
+Before the Min-CaLM program can be used on the debris disk data, the dust's blackbody spectrum must be removed. To remove the blackbody spectrum, type in the estimated temperature of the dust into line . This line of code is shown below. 
+
+If the debris disk spectrum has already been removed then the section titled "DUST BLACKBODY REMOVAL" must be commented out along with the first while loop in the "MULTIPLYING THE OVERALL SPECTRA BY THE BB CONTINUUM" section. 
 
 
 
