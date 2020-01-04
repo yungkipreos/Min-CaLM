@@ -55,7 +55,7 @@ After this prompt appears on the screen, type in the debris disk file name into 
 
 A figure will appear with the recreated debris disk spectrum by Min-CaLM (in blue) plotted over the original debris disk spectrum (in red). 
 
-
+<img src="/BD+20 307 (BB = 502).png" width = 300 >
 
 The recreated spectrum is calculated by multiplying each mineral spectrum by its relative abundance, and then adding each of the weighted spectra together. The relative abundance of each mineral within the disk, as calculated by Min-CaLM, is displayed in a table in the Terminal window.
 
