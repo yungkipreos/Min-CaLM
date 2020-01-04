@@ -49,11 +49,15 @@ After around ~20 seconds, a prompt will appear that reads "Please input the targ
 
 <img src="/4.png" width = 300 >
 
-After this prompt appears on the screen, type in the debris disk file name into the command line and hit enter. 
+After this prompt appears on the screen, type in the debris disk file name into the command line and hit enter. Here the file name is "BD+20_307_Debris_Disk.txt".
 
 <img src="/5.png" width = 300 >
 
-A figure will appear with the recreated debris disk spectrum by Min-CaLM (in blue) plotted over the original debris disk spectrum (in red). The recreated spectrum is calculated by multiplying each mineral spectrum by its relative abundance, and then adding each of the weighted spectra together. The relative abundance of each mineral within the disk, as calculated by Min-CaLM, is displayed in a table in the Terminal window.
+A figure will appear with the recreated debris disk spectrum by Min-CaLM (in blue) plotted over the original debris disk spectrum (in red). 
+
+
+
+The recreated spectrum is calculated by multiplying each mineral spectrum by its relative abundance, and then adding each of the weighted spectra together. The relative abundance of each mineral within the disk, as calculated by Min-CaLM, is displayed in a table in the Terminal window.
 
 <img src="/6.png" width = 300 >
 
