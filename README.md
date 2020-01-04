@@ -38,12 +38,24 @@ Before the Min-CaLM program can be used on the debris disk data, the dust's blac
 *Note: If the debris disk spectrum has already been removed then the section titled "DUST BLACKBODY REMOVAL" must be commented out along with the first while loop in the "MULTIPLYING THE OVERALL SPECTRA BY THE BB CONTINUUM" section. 
 
 Now the Min-CaLM program is ready to be used. In command line, navigate to the directory in where Min-CaLM.py, the mineral spectra files, and the debris disk spectrum are located. In this example they are located in a folder called "Min-CaLM_Files".
+
 <img src="/1.png" width = 300 >
+
 Type "ipython" into the command line, and afterwards type "run Min-CaLM.py" to run the program. 
+
 <img src="/3.png" width = 300 >
+
 After around ~20 seconds, a prompt will appear that reads "Please input the target's spectrum (target spectrum must be kept in the same folder as Min-CaLM.py):". 
+
 <img src="/4.png" width = 300 >
+
 After this prompt appears on the screen, type in the debris disk file name into the command line and hit enter. 
+
+<img src="/5.png" width = 300 >
+
+A figure will appear with the recreated debris disk spectrum by Min-CaLM (in blue) plotted over the original debris disk spectrum (in red). The recreated spectrum is calculated by multiplying each mineral spectrum by its relative abundance, and then adding each of the weighted spectra together. The relative abundance of each mineral within the disk, as calculated by Min-CaLM, is displayed in a table in the Terminal window.
+
+<img src="/6.png" width = 300 >
 
 
 
