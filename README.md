@@ -1,5 +1,5 @@
 # Min-CaLM
-This python package can perform automated mineral compositional analysis on debris disk spectra. It will determine the minerals that are present and what their relative abundances are within the debris disk. This code is used in a paper that has been submitted to the American Journal of Undergraduate Research (AJUR), titled "An Unbiased Mineral Compositional Analysis Technique for Debris Disks" by Yung Kipreos and Dr. Inseok Song.
+The Min-CaLM python package can perform automated mineral compositional analysis on debris disk spectra. It will determine the minerals that are present and what their relative abundances are within the debris disk. This code is used in a paper that has been submitted to the American Journal of Undergraduate Research (AJUR), titled "An Unbiased Mineral Compositional Analysis Technique for Debris Disks" by Yung Kipreos and Dr. Inseok Song. Min-CaLM stands for "Mineral Compositional Analysis using Least Square Minimization".
 
 ## Getting Started
 To use Min-CaLM's code, the following python libraries must be imported: numpy, astropy.io, pylab, scipy.optimize, matplotlib, scipy, decimal.
